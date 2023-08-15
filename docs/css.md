@@ -1,0 +1,1 @@
+text-right: alinea el texto a la derecha
